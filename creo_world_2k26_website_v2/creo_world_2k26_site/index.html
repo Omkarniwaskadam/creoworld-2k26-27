@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CREO WORLD 2K26 | Experience Hub</title>
+<meta name="description" content="Interactive CREO WORLD 2K26 event guide with rules, registration, contacts and participation guidance.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="noise"></div>
+<header class="hero">
+  <nav><a class="brand" href="#top"><span class="brand-mark">CW</span><span>CREO WORLD <b>2K26</b></span></a>
+    <div class="navlinks"><a href="#events">Events</a><a href="#experience">Experience</a><a href="#guide">Guide</a></div>
+    <button id="randomTop" class="nav-btn" type="button">🎲 Surprise me</button>
+  </nav>
+  <div class="hero-grid">
+    <div class="hero-copy"><p class="eyebrow">THE INNOVATION ARENA</p><h1>Build.<br>Compete.<br><span>Become CREO.</span></h1>
+      <p class="lead">A more interactive companion for every Degree and Polytechnic challenge—discover the event, understand the rules, prepare smartly and register where a form is available.</p>
+      <div class="hero-actions"><a class="btn primary" href="#events">Explore 14 events ↓</a><button class="btn ghost" id="randomHero" type="button">Pick my challenge ✦</button></div>
+      <div class="mini-trust"><span>14 events</span><i></i><span>7 Degree</span><i></i><span>7 Polytechnic</span></div>
+    </div>
+    <div class="hero-visual" aria-label="CREO WORLD animated event visual">
+      <div class="scanline"></div><div class="orb"><div class="orb-core">CW<br><small>2K26</small></div><span class="ring r1"></span><span class="ring r2"></span><span class="ring r3"></span><span class="sat s1">AI</span><span class="sat s2">CAD</span><span class="sat s3">ROBO</span></div>
+      <div class="floating-card fc1">⚡ <b>COMPETE</b><small>14 challenges</small></div><div class="floating-card fc2">🧠 <b>CREATE</b><small>Learn by doing</small></div>
+    </div>
+  </div>
+</header>
+<main id="top">
+  <section class="stats" id="stats"><div><strong id="statEvents">14</strong><span>Challenges</span></div><div><strong id="statDegree">07</strong><span>Degree</span></div><div><strong id="statPoly">07</strong><span>Polytechnic</span></div><div><strong id="statForms">05</strong><span>Registration forms</span></div></section>
+
+  <section id="events" class="section">
+    <div class="section-head"><div><p class="eyebrow">CHOOSE YOUR ARENA</p><h2>Event Universe</h2><p class="sub">Tap any event to open its complete participant guide.</p></div>
+      <div class="view-switch"><button class="view active" data-view="cards" type="button">▦ Cards</button><button class="view" data-view="compact" type="button">☷ Compact</button></div>
+    </div>
+    <div class="filter-row"><div class="filters"><button class="filter active" data-filter="All" type="button">All <b>14</b></button><button class="filter" data-filter="Degree" type="button">Degree <b>7</b></button><button class="filter" data-filter="Polytechnic" type="button">Polytechnic <b>7</b></button><button class="filter" data-filter="Saved" type="button">★ Saved <b id="savedCount">0</b></button></div>
+      <div class="toolbar"><input id="search" type="search" aria-label="Search events" placeholder="Search event, skill, department…"><select id="sort" aria-label="Sort events"><option value="default">Original order</option><option value="az">A–Z</option><option value="fee">Lowest fee</option><option value="expected">Expected entries</option></select></div>
+    </div>
+    <div id="eventGrid" class="grid"></div>
+  </section>
+
+  <section id="experience" class="section experience">
+    <div class="experience-head"><div><p class="eyebrow">MAKE A MOVE</p><h2>Your CREO Mission</h2><p class="sub">Use these interactive tools to decide what to explore next.</p></div><div class="mission-score"><span id="missionScore">0</span><small>checklist points</small></div></div>
+    <div class="experience-grid">
+      <article class="mission-panel spotlight"><div class="panel-label">✦ RANDOM CHALLENGE</div><div id="spotlightIcon" class="big-icon">🎯</div><h3 id="spotlightTitle">Pick a challenge</h3><p id="spotlightText">Not sure where to start? Let CREO choose an event for you.</p><div class="spot-meta"><span id="spotCategory">—</span><span id="spotFee">—</span></div><button id="spotlightBtn" class="btn primary" type="button">Spin the wheel ↻</button></article>
+      <article class="mission-panel checklist"><div class="panel-label">✓ PARTICIPANT CHECKLIST</div><h3>Ready before you register?</h3><label><input type="checkbox" class="mission-check"> I have chosen my event</label><label><input type="checkbox" class="mission-check"> I have read the rules</label><label><input type="checkbox" class="mission-check"> I know the entry fee</label><label><input type="checkbox" class="mission-check"> I know whom to contact</label><label><input type="checkbox" class="mission-check"> I have completed registration</label><div class="progress"><span id="progressBar"></span></div><p id="progressText">0 of 5 completed</p></article>
+      <article class="mission-panel visual-map"><div class="panel-label">◎ EVENT CONSTELLATION</div><svg viewBox="0 0 500 240" role="img" aria-label="Event category constellation"><path d="M60 170 C130 50 205 210 270 85 S390 70 450 150"/><circle cx="60" cy="170" r="10"/><circle cx="150" cy="90" r="7"/><circle cx="215" cy="175" r="7"/><circle cx="270" cy="85" r="11"/><circle cx="355" cy="120" r="7"/><circle cx="450" cy="150" r="10"/><text x="42" y="205">CREATE</text><text x="244" y="65">TECH</text><text x="422" y="185">COMPETE</text></svg><p>Explore the event universe by skill: AI, design, coding, robotics, engineering, creativity and tech games.</p></article>
+    </div>
+  </section>
+
+  <section id="guide" class="section guide-section"><div class="section-head"><div><p class="eyebrow">PLAY SMART</p><h2>How to Participate</h2><p class="sub">A simple flow for every CREO event.</p></div></div>
+    <div class="guide-grid"><article><span>01</span><div class="guide-icon">🧭</div><h3>Choose</h3><p>Compare the event category, department, fee and expected entries. Open the event guide before deciding.</p></article><article><span>02</span><div class="guide-icon">📖</div><h3>Understand</h3><p>Read the event-specific rules and round instructions supplied in the CREO documents.</p></article><article><span>03</span><div class="guide-icon">🛠</div><h3>Prepare</h3><p>Prepare the required skills, materials or device setup. If a detail is not in the source, confirm it with the coordinator.</p></article><article><span>04</span><div class="guide-icon">🚀</div><h3>Register</h3><p>Use the official form button when supplied. Otherwise, contact the listed faculty or student coordinator.</p></article></div>
+  </section>
+
+  <section id="about" class="section about"><div><p class="eyebrow">SOURCE & TRANSPARENCY</p><h2>Built from your CREO WORLD files</h2><p>This interactive website uses the uploaded event-plan and detailed event/rules documents. Missing information is not invented. Where source files use different names for an event, the difference is shown in the event note.</p></div><div class="notice"><b>⚠ SOURCE NOTE</b><p>For example, the Degree source contains “RoboChrono Challenge” rules while the event plan names the event “RoboFootball League”. The website preserves this distinction for verification.</p></div></section>
+</main>
+<footer><div class="brand"><span class="brand-mark">CW</span><span>CREO WORLD <b>2K26</b></span></div><p>Explore • Prepare • Compete • Create</p></footer>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<div id="modal" class="modal" aria-hidden="true"><div class="modal-box"><button class="close" id="close" type="button" aria-label="Close">×</button><div id="modalContent"></div></div></div>
+<script src="events.js"></script>
+</body></html>

@@ -1,0 +1,528 @@
+[
+  {
+    "id": "techmind-ai",
+    "title": "TechMind AI Challenge",
+    "category": "Degree",
+    "dept": "Artificial Intelligence & Machine Learning",
+    "faculty": "Prof. Bhambare A.V",
+    "fphone": "8180089727",
+    "fmail": "avbhambhare_aiml@aitrcvita.edu.in",
+    "students": [
+      [
+        "Jahir Yasin Kulkarni",
+        "7276721455",
+        "jahirkulkarni729@gmail.com"
+      ],
+      [
+        "Jadhav Sakshi Rahul",
+        "9545116792",
+        ""
+      ]
+    ],
+    "expected": "70",
+    "fee": "₹150",
+    "rules": [
+      "Participation is allowed individually or in a team of maximum two students.",
+      "Only three prompts per round are permitted.",
+      "Permitted tools include ChatGPT, OpenAI Tools, Google Gemini and other AI-based platforms.",
+      "Plagiarism or duplication of ideas results in immediate disqualification.",
+      "Judges’ decision is final and binding."
+    ],
+    "guide": [
+      "Choose individual or a two-student team.",
+      "Prepare to work with permitted AI tools.",
+      "Use no more than three prompts in each round.",
+      "Create original work and avoid duplicated ideas.",
+      "Follow the judges’ instructions throughout the challenge."
+    ],
+    "register": "https://docs.google.com/forms/d/e/1FAIpQLSfQpqTWQy5FM__EZsuUExTqfPadObUYyE14WKfz-AhFXoVC4Q/viewform"
+  },
+  {
+    "id": "void-run",
+    "title": "Void Run",
+    "category": "Degree",
+    "dept": "Computer Science and Engineering",
+    "faculty": "Ms. R.A. Patil",
+    "fphone": "8999407587",
+    "fmail": "rapatil_cse@aitrc.edu.in",
+    "students": [
+      [
+        "Chaitanya Rajaram Shinde",
+        "8637790026",
+        "chaituupro@gmail.com"
+      ]
+    ],
+    "expected": "60",
+    "fee": "₹125",
+    "rules": [
+      "Each team can contain a minimum of 1 and maximum of 4 persons.",
+      "Teams may bring their own laptop to perform the game.",
+      "AI and internet use is allowed during the starting round.",
+      "Teams must not tamper with game files, LAN network or another team’s system.",
+      "The winner is decided on the basis of the leaderboard."
+    ],
+    "guide": [
+      "Register as an individual or team of up to four.",
+      "Bring your own laptop if needed for the game.",
+      "Use AI/internet only as permitted for the starting round.",
+      "Do not modify game files, LAN systems or another team’s setup.",
+      "Follow the leaderboard-based result and coordinator instructions."
+    ],
+    "register": "https://void-run-puce.vercel.app/"
+  },
+  {
+    "id": "bridge-wars",
+    "title": "BRIDGE WARS",
+    "category": "Degree",
+    "dept": "Civil Engineering",
+    "faculty": "Prof. Jyoti R. Kadam",
+    "fphone": "9284400523",
+    "fmail": "jrkadam_civil@aitrcvita.edu.in",
+    "students": [
+      [
+        "Yash Pawar",
+        "82372779515",
+        "sonyapawar3737@gmail.com"
+      ],
+      [
+        "Minakshi Desai",
+        "9421685197",
+        "minakshid30092006@gmail.com"
+      ]
+    ],
+    "expected": "25",
+    "fee": "₹150",
+    "rules": [
+      "The bridge model must have a clear span of 30 cm.",
+      "Maximum cross-section is 15 cm × 15 cm.",
+      "The bridge must be fabricated entirely at the venue; prefabricated or pre-assembled components are not permitted.",
+      "Participants must bring the specified materials: ice-cream sticks and Fevicol.",
+      "The completed bridge is tested by applying load at the designated central loading point.",
+      "Winner selection considers maximum load-carrying capacity, structural efficiency, innovation and overall design."
+    ],
+    "guide": [
+      "Form a team of up to 3 members.",
+      "Bring ice-cream sticks and Fevicol as specified.",
+      "Build the bridge at the competition venue.",
+      "Keep the 30 cm clear span and 15 cm × 15 cm maximum cross-section in mind.",
+      "Submit the finished model for the central load test."
+    ]
+    
+  },
+  {
+    "id": "electrical-masters",
+    "title": "Electrical Masters",
+    "category": "Degree",
+    "dept": "Electrical, Electrical & Computer Engineering",
+    "faculty": "Mr. S. S. Sudake",
+    "fphone": "9921761799",
+    "fmail": "sudakeswapnil05@gmail.com",
+    "students": [
+      [
+        "Salunkhe Aditya Avinash",
+        "8805484159",
+        "adityasalunkhe510@gmail.com"
+      ],
+      [
+        "Kanchan Chandrakant Aglave",
+        "7448032932",
+        "kanchanaglave98@gmail.com"
+      ]
+    ],
+    "expected": "50",
+    "fee": "₹150",
+    "rules": [],
+    "guide": [
+      "Use the registration information supplied by the organizers.",
+      "Confirm the round structure, equipment requirements and detailed rules with the faculty coordinator before participating.",
+      "Arrive with the materials or equipment specifically instructed by the organizers."
+    ]
+  },
+  {
+    "id": "robofootball",
+    "title": "RoboFootball League",
+    "category": "Degree",
+    "dept": "Electronics and Telecommunication",
+    "faculty": "Mrs. S. S. Patil",
+    "fphone": "8261879792",
+    "fmail": "seeksa422@gmail.com",
+    "students": [
+      [
+        "Payal Satish Kumbhar",
+        "7276514101",
+        "pk1485529@gmail.com"
+      ],
+      [
+        "Pranav Satish Pawar",
+        "8624098213",
+        "pranavp.7158@gmail.com"
+      ]
+    ],
+    "expected": "50",
+    "fee": "₹150",
+    "rules": [
+      "The uploaded rules document is titled RoboFootball League, but its table names the event RoboChrono Challenge.",
+      "An electric-powered robot is provided to each participant to complete the given track.",
+      "Each participant gets only one chance to complete the track.",
+      "The participant who takes less time to complete the task is the winner.",
+      "No test practice is allowed.",
+      "The organizer has the right to take the final decision on event matters.",
+      "The referee’s decision is final."
+    ],
+    "guide": [
+      "Confirm the exact RoboFootball/RoboChrono format with the coordinator because the supplied documents use different names.",
+      "Use the electric-powered robot provided by the organizers if the supplied rules apply.",
+      "Be ready for one timed attempt and no practice run.",
+      "Focus on completing the track quickly and follow referee instructions."
+    ]
+  },
+  {
+    "id": "clay-modeling",
+    "title": "Clay Modeling",
+    "category": "Degree",
+    "dept": "Mechanical Engineering",
+    "faculty": "Mr. Nikhil Bhagwan Patil",
+    "fphone": "9623928799",
+    "fmail": "nbpatil_mech@aitrcvita.edu.in",
+    "students": [
+      [
+        "Yuvraj Dipak Havaldar",
+        "9113650312",
+        ""
+      ]
+    ],
+    "expected": "50",
+    "fee": "₹150",
+    "rules": [
+      "Eligibility: open to registered institute participants/students.",
+      "The model must follow the theme announced by organizers.",
+      "Participants must complete the model within the allotted time; the rules give 2 hours as an example.",
+      "Clay will be provided or participants may bring their own as specified.",
+      "Basic modelling tools may be used; sharp or hazardous tools are not permitted.",
+      "The work must be original and created during the competition.",
+      "Participants must work independently.",
+      "Keep the work area clean and follow safety instructions.",
+      "Submit/display the completed model at the designated place before time ends.",
+      "Judging: creativity and originality 25%; relevance to theme 20%; artistic presentation 20%; skill and finishing 20%; overall impact 15%.",
+      "Prohibited materials, copying, outside assistance or rule violations may lead to disqualification.",
+      "Judges’ decision is final and binding.",
+      "Organizers may modify rules, schedule or arrangements if necessary."
+    ],
+    "guide": [
+      "Register for the event.",
+      "Check the announced theme and required clay/material arrangement.",
+      "Prepare basic safe modelling tools.",
+      "Create the model independently within the allotted time.",
+      "Keep your area clean and submit/display the finished model before time expires.",
+      "Make the design original and aligned with the theme."
+    ],
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSftbzABLMva_IaGbFSKJ18PAZgYyJgtDHtxbNYiK9nfK2S4mA/viewform"
+
+  },
+  {
+    "id": "vision-board",
+    "title": "Vision Board – Poster Presentation",
+    "category": "Degree",
+    "dept": "General Sciences and Engineering",
+    "faculty": "Prof. P. S. Sutar",
+    "fphone": "9860346411",
+    "fmail": "pssutar_gse@aitrcvita.edu.in",
+    "students": [
+      [
+        "Pranav Prakash Duke",
+        "8806171033",
+        "pranavduke1033@gmail.com"
+      ]
+    ],
+    "expected": "50",
+    "fee": "₹125",
+    "rules": [
+      "The poster must relate to the given theme/topic.",
+      "The poster must be handmade; printed posters are not accepted.",
+      "Poster size: minimum 1 ft × 1 ft and maximum 2 ft × 2 ft.",
+      "Lettering and images must be readable from a minimum distance of 2 feet.",
+      "Official poster languages: Marathi, English or Hindi.",
+      "Participants must explain the poster within 3–5 minutes.",
+      "Offensive or copied content is strictly prohibited.",
+      "Judging is based on creativity, clarity, content and presentation skills."
+    ],
+    "guide": [
+      "Prepare a handmade poster around the announced topic/theme.",
+      "Keep the poster between 1×1 ft and 2×2 ft.",
+      "Use Marathi, English or Hindi.",
+      "Make text and visuals readable from at least 2 feet.",
+      "Prepare a clear 3–5 minute explanation.",
+      "Use original, respectful content."
+    ],
+    "register": "https://docs.google.com/forms/d/e/1FAIpQLSfD6HOjTHNdWdrq5u7oAanJNIFoaJpLRTq1Bpx1cYL-6v4Vfg/viewform"
+
+
+  },
+  {
+    "id": "cipher-chase",
+    "title": "Cipher Chase",
+    "category": "Polytechnic",
+    "dept": "Artificial Intelligence and Machine Learning",
+    "faculty": "Mrs. Snehal Milind Lokhande",
+    "fphone": "9730327730",
+    "fmail": "smlokhande_cm@aitrcvita.edu.in",
+    "students": [
+      [
+        "Shruti M. Mirajkar",
+        "9356303302",
+        "mirajkarshruti0311@gmail.com"
+      ],
+      [
+        "Harshad A. Jadhav",
+        "7262914212",
+        "harshadjadhav0934@gmail.com"
+      ]
+    ],
+    "expected": "Not specified",
+    "fee": "₹100",
+    "rules": [
+      "Solo or group of 3 participants is allowed.",
+      "All participants must follow instructions and time limits of each round.",
+      "Mobile phones, internet and outside assistance are not allowed unless permitted by coordinators.",
+      "Cheating, unfair means or misconduct results in disqualification.",
+      "Participants must maintain discipline and respectful behaviour.",
+      "Judges’ and event coordinators’ decision is final and binding."
+    ],
+    "guide": [
+      "Choose solo participation or a 3-member group.",
+      "Follow each round’s instructions and time limit.",
+      "Do not use mobile/internet or outside help unless explicitly permitted.",
+      "Solve the cipher/challenge independently and maintain discipline.",
+      "Follow coordinator and judge decisions."
+    ],
+    "register": "https://docs.google.com/forms/d/e/1FAIpQLSdOPOErJs5thSUSh3uKtapHYozJIsiRIvg_ObCgmMjfiKJalw/viewform?usp=publish-editor"
+  },
+  {
+    "id": "tech-treasure",
+    "title": "TECH TREASURE HUNT – “The Digital Heist”",
+    "category": "Polytechnic",
+    "dept": "Computer Technology",
+    "faculty": "Ms. P. S. Suryawanshi",
+    "fphone": "7219667153",
+    "fmail": "pssuryawanshi_cm@aitrcvita.edu.in",
+    "students": [
+      [
+        "Anushka Arvind Karmalkar",
+        "7840915838",
+        "Anushkakarmalkar53@gmail.com"
+      ]
+    ],
+    "expected": "50",
+    "fee": "₹150",
+    "rules": [
+      "Each team consists of 2 students.",
+      "The event has 3 rounds.",
+      "Round 1: solve the given code; its output gives the clue/location for Round 2.",
+      "Round 2: find and solve the puzzle at the given location; its output is the password for the designated PC.",
+      "Round 3: teams completing Round 2 proceed to the Surprise Round.",
+      "Each round must be completed within the given time limit.",
+      "Mobile phones, internet and external help are not allowed unless organizers permit them.",
+      "Sharing clues, answers or helping other teams is prohibited.",
+      "Organizers’/judges’ decision is final and binding."
+    ],
+    "guide": [
+      "Create a 2-student team.",
+      "Start by solving the code in Round 1.",
+      "Use the output as the clue/location for Round 2.",
+      "Solve the location puzzle and use its output as the designated PC password.",
+      "Qualify for and complete the Surprise Round.",
+      "Respect time limits and do not share clues or answers."
+    ],
+    "register": "https://forms.gle/Ak67tFRftcdBH1K2A"
+  },
+  {
+    "id": "cad-master",
+    "title": "CAD MASTER 2K26",
+    "category": "Polytechnic",
+    "dept": "Civil Engineering Department (Diploma)",
+    "faculty": "Mr. S. S. Pawar",
+    "fphone": "9822945216",
+    "fmail": "sspawar_ce@aitrcvita.edu.in",
+    "students": [
+      [
+        "Aryan Vikas Yadav",
+        "8459631433",
+        "aryanyadav9442@gmail.com"
+      ]
+    ],
+    "expected": "30",
+    "fee": "₹150",
+    "rules": [
+      "Individual participation is permitted.",
+      "Report to the venue at least 15 minutes before the scheduled start.",
+      "The challenge tests CADD skills related to Civil Engineering.",
+      "A drawing/problem statement is given at the beginning.",
+      "Complete the drawing/design within the specified time.",
+      "Use only software/systems provided or approved by the organizing committee.",
+      "Pre-prepared drawings, templates, external files, mobile phones, internet resources and unauthorized materials are prohibited.",
+      "Save work periodically and submit the final drawing in the specified format.",
+      "Do not communicate or exchange files with other participants.",
+      "Malpractice or copying results in immediate disqualification.",
+      "Report technical problems immediately to the event coordinator.",
+      "Extra time may be provided only at the committee’s discretion.",
+      "Judges’ and organizing committee’s decision is final and binding.",
+      "Maintain discipline, dignity and professional conduct."
+    ],
+    "guide": [
+      "Participate individually.",
+      "Reach the venue at least 15 minutes early.",
+      "Use only approved systems/software.",
+      "Start from the drawing/problem statement given at the event.",
+      "Save your work regularly and submit it in the required format.",
+      "Do not use prepared templates/files, internet, phones or unauthorized aids.",
+      "Immediately report technical issues to the coordinator."
+    ],
+    "register": "https://forms.gle/f3RheJdHMZV5C61F7"
+  },
+  {
+    "id": "techfocus",
+    "title": "TechFocus",
+    "category": "Polytechnic",
+    "dept": "Electrical Engineering (Poly)",
+    "faculty": "Ms. S. P. Desai",
+    "fphone": "7875729715",
+    "fmail": "Sonamdesai9512gmail.com",
+    "students": [
+      [
+        "Asmita Hanmant Jadhav",
+        "9096421571",
+        "hanamantjadhav7222@gmail.com"
+      ],
+      [
+        "Sujal Shivaji Chavan",
+        "9699536573",
+        "sujalchavan2432@gmail.com"
+      ]
+    ],
+    "expected": "Not specified",
+    "fee": "₹125",
+    "rules": [],
+    "guide": [
+      "Use the registration link provided by the organizers.",
+      "Confirm the event rounds, required materials and participation format with the coordinator before the event.",
+      "Follow all instructions given by the event team on the day."
+    ],
+    "register": "https://forms.gle/f3RheJdHMZV5C61F7",
+    "note": "The supplied event-plan document does not include a detailed rules document for TechFocus."
+  },
+  {
+    "id": "technoquest",
+    "title": "TechnoQuest",
+    "category": "Polytechnic",
+    "dept": "Electronics and Telecommunication",
+    "faculty": "Ms. Prital Nanaso Salunkhe",
+    "fphone": "7498566096",
+    "fmail": "pnsalunkhe_ej@aitrcvita.edu.in",
+    "students": [
+      [
+        "Tanishka Ghagare",
+        "7397905105",
+        "Tanishkaghagare58@gmail.com"
+      ]
+    ],
+    "expected": "Not specified",
+    "fee": "₹125",
+    "rules": [
+      "Participants must not modify or damage laboratory equipment.",
+      "Mobile phones and other electronic devices may be restricted during competition rounds.",
+      "Internet access is permitted only if specifically allowed by organizers.",
+      "Complete the assigned task within the specified time.",
+      "Unfair means, cheating or unauthorized assistance results in immediate disqualification.",
+      "Judges/event coordinators’ decision is final and binding."
+    ],
+    "guide": [
+      "Participate as a team of maximum 2 members.",
+      "Handle laboratory equipment carefully and do not modify/damage it.",
+      "Check whether internet/electronic devices are permitted before each round.",
+      "Complete the assigned task within the time limit.",
+      "Follow coordinator instructions and avoid unauthorized assistance."
+    ],
+    "register": "https://q.me-qr.com/98uoxu7n"
+  },
+  {
+    "id": "mech-creo",
+    "title": "Mech Creo Challenge",
+    "category": "Polytechnic",
+    "dept": "Mechanical Engineering",
+    "faculty": "Mr. Vishal Dhondiram Jadhav",
+    "fphone": "7755900771",
+    "fmail": "Vdjadhav_mech@aitrcvita.edu.in",
+    "students": [
+      [
+        "Arati Hanmant Shinde",
+        "9049154894",
+        ""
+      ],
+      [
+        "Amruta Sanjay Ravtale",
+        "",
+        ""
+      ]
+    ],
+    "expected": "Not specified",
+    "fee": "₹150",
+    "rules": [
+      "Carry a valid college/student ID card.",
+      "Follow instructions from coordinators and volunteers.",
+      "Mobile phones, smart watches, calculators, books, notes and unauthorized aids are not permitted unless specifically allowed.",
+      "Cheating, communication with other teams or outside assistance results in immediate disqualification.",
+      "Event Coordinator/Judging Committee decision is final and binding.",
+      "Organizers may modify rules, timings or round sequence if required.",
+      "Round 1 – Memory Game: observe images/objects/symbols/numbers/components for a limited time, then answer identification, position, count, matching, missing-object or sequence questions. Display/question timing is 30–60 seconds as specified.",
+      "Round 2 – Error Detective: identify faults in diagrams, machine arrangements, drawings, workshop situations, components or technical images; explain or suggest solutions where asked.",
+      "Final Round – Treasure Hunt: solve a series of clues/tasks involving mechanical concepts, workshop equipment, symbols, components, puzzles, locations or observation tasks. Teams must remain together.",
+      "Do not disturb equipment, run in unsafe areas, remove/damage/hide clues or interfere with another team.",
+      "Hints may carry a penalty according to organizer rules.",
+      "Disqualification may result from cheating, unauthorized devices, tampering, property damage, restricted-area entry, unsafe behaviour or misconduct."
+    ],
+    "guide": [
+      "Carry your college/student ID.",
+      "Prepare for three stages: Memory Game, Error Detective and Treasure Hunt.",
+      "For Memory Game, focus on observation and recall within the short display/question windows.",
+      "For Error Detective, identify the fault and give an explanation/solution when required.",
+      "For Treasure Hunt, stay together, solve clues in sequence and follow safety rules.",
+      "Do not use unauthorized aids or interfere with equipment/clues."
+    ],
+    "register": "https://forms.gle/Svh2W9VP3C92NATQ7",
+    "note": "The source rules use the spelling “Mech Creo Challange”; the event-plan and summary sheet use “Mech Creo Challenge.”"
+  },
+  {
+    "id": "brain-byte",
+    "title": "Brain Byte",
+    "category": "Polytechnic",
+    "dept": "Science and Humanities",
+    "faculty": "Mrs. S. M. Deshmukh",
+    "fphone": "9579231403",
+    "fmail": "smdeshmukh_gsci@aitrcvita.edu.in",
+    "students": [
+      [
+        "Swara Nitin Shirke",
+        "9145522987",
+        "swarashirke119@gmail.com"
+      ]
+    ],
+    "expected": "30",
+    "fee": "₹125",
+    "rules": [
+      "The quiz has two rounds.",
+      "Each team consists of 2 participants.",
+      "Round 1 covers technical knowledge and may include MCQs and general technical questions.",
+      "Round 2 is a Rapid Fire/Buzzer round where quick and accurate answers are rewarded.",
+      "Answer within the time limit for each question.",
+      "Quiz Master and Judges’ decision is final and binding.",
+      "Teams violating rules may be disqualified."
+    ],
+    "guide": [
+      "Create a 2-member team.",
+      "Prepare technical knowledge and general technical questions.",
+      "Practice quick responses for the Rapid Fire/Buzzer round.",
+      "Answer within the allotted time and follow the Quiz Master’s instructions."
+    ],
+    "register": "https://docs.google.com/forms/d/e/1FAIpQLScwDPvhun76Acf-vlFa9Py9wxddp9iOg1wEnLd9JUbYJaB1Tw/viewform"
+  }
+]
